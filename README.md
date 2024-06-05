@@ -3,7 +3,6 @@ Powered by D3js library
 
 [Output](https://pranjal779.github.io/Visualize-Data-with-a-Scatterplot-Graph/)
 
-# Visualize Data with a Scatterplot Graph
 ## Project Overview
 This project is a visualization of data pertaining to doping in professional bicycle racing, specifically highlighting the performance of cyclists in relation to allegations of doping. The main goal is to provide an interactive scatterplot graph that shows the correlation between a cyclist's race time and the year of their performance, along with indicating whether they had allegations of doping.  
 
